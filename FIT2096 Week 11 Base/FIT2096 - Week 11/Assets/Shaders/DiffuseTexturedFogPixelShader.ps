@@ -1,0 +1,53 @@
+Texture2D meshTexture;
+SamplerState samplerType;
+
+cbuffer LightingBuffer
+{
+	float4 lightColour;
+	// ----------------------- 16 byte boundary
+	float4 ambientColour;
+	// ----------------------- 16 byte boundary
+	float4 fogColour;
+	// ----------------------- 16 byte boundary
+	float3 lightDirection;
+	float fogStart;
+	// ----------------------- 16 byte boundary
+	float fogEnd;
+	// 12 bytes of padding added for us
+	// ----------------------- 16 byte boundary
+};
+
+struct PixelInput
+{
+	float4 position : SV_POSITION;
+	float4 colour : COLOR;
+	float3 normal : NORMAL;
+	float2 uv : TEXCOORD;
+	float depth : FOG;
+};
+
+float4 main(PixelInput input) : SV_TARGET
+{
+	// Our normal may not be a unit vector after interpolation so we normalize it
+	input.normal = normalize(input.normal);
+
+	// The intensity of our light is how similar the angle between the normal and the light direction are
+	// We can't have negative light, so we ensure this stays above 0
+	float diffuseIntensity = max(0, dot(input.normal, lightDirection));
+
+	// Sample texture colour for interpolated UV coordinate
+	float4 textureColour = meshTexture.Sample(samplerType, input.uv);
+
+	// Factor in the colour of the light
+	float4 diffuseLight = lightColour * diffuseIntensity;
+
+	// The final colour after taking texturing and lighting into account
+	float4 finalColour = textureColour * (diffuseLight + ambientColour);
+
+	// Let's add linear fog
+	float fogFactor = (fogEnd - input.depth) / (fogEnd - fogStart);
+	finalColour = fogFactor * finalColour + (1.0 - fogFactor) * fogColour;
+
+	// Saturate is basically a clamp that keeps values between 0 and 1
+	return saturate(finalColour);
+}

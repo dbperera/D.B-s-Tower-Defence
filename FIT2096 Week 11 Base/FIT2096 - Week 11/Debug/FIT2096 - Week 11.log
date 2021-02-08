@@ -1,0 +1,102 @@
+﻿  Agent.cpp
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\agent.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\agent.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\agent.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  AudioClip.cpp
+  AudioSystem.cpp
+  Explosion.cpp
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\explosion.cpp(8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\explosion.cpp(21): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\explosion.cpp(23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Hellbomb.cpp
+  PlayerBase.cpp
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\playerbase.cpp(12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Bullet.cpp
+  Button.cpp
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\button.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Camera.cpp
+  CollisionManager.cpp
+  Collisions.cpp
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\collisions.cpp(147): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Direct3D.cpp
+  FlyingCamera.cpp
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\flyingcamera.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+  Game.cpp
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(370): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(372): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(374): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(728): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(735): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(741): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(743): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(755): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(760): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(762): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(778): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(780): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(796): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(798): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(823): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(846): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(846): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(850): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(850): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(855): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(855): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(861): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(861): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(925): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(974): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(979): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(984): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1000): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1005): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1010): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1017): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1018): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1023): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1024): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1029): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1030): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1105): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1121): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1173): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1242): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1243): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1244): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1245): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1247): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1248): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\game.cpp(1249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GameObject.cpp
+  InputController.cpp
+  ItemBox.cpp
+  Kart.cpp
+  Main.cpp
+  Mesh.cpp
+  Generating Code...
+  Compiling...
+  MeshManager.cpp
+  MovingObject.cpp
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\movingobject.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  PhysicsObject.cpp
+  SceneLighting.cpp
+  Shader.cpp
+  Shockwave.cpp
+  Texture.cpp
+  TexturedShader.cpp
+  TextureManager.cpp
+  ThirdPersonCamera.cpp
+  Tower.cpp
+c:\users\dbper\onedrive\documents\uni\assignment 3 fit2096 by dhanushka perera (2693094)\fit2096 week 11 base\fit2096 - week 11\tower.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  Window.cpp
+  Generating Code...
+DirectXTK_VS2017.lib(CommonStates.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2017.lib(CommonStates.obj)' or at 'C:\Users\dbper\OneDrive\Documents\Uni\Assignment 3 FIT2096 By Dhanushka Perera (2693094)\FIT2096 Week 11 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2017.lib(BinaryReader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2017.lib(BinaryReader.obj)' or at 'C:\Users\dbper\OneDrive\Documents\Uni\Assignment 3 FIT2096 By Dhanushka Perera (2693094)\FIT2096 Week 11 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2017.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2017.lib(pch.obj)' or at 'C:\Users\dbper\OneDrive\Documents\Uni\Assignment 3 FIT2096 By Dhanushka Perera (2693094)\FIT2096 Week 11 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2017.lib(SimpleMath.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2017.lib(SimpleMath.obj)' or at 'C:\Users\dbper\OneDrive\Documents\Uni\Assignment 3 FIT2096 By Dhanushka Perera (2693094)\FIT2096 Week 11 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2017.lib(SpriteBatch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2017.lib(SpriteBatch.obj)' or at 'C:\Users\dbper\OneDrive\Documents\Uni\Assignment 3 FIT2096 By Dhanushka Perera (2693094)\FIT2096 Week 11 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2017.lib(SpriteFont.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2017.lib(SpriteFont.obj)' or at 'C:\Users\dbper\OneDrive\Documents\Uni\Assignment 3 FIT2096 By Dhanushka Perera (2693094)\FIT2096 Week 11 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2017.lib(VertexTypes.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2017.lib(VertexTypes.obj)' or at 'C:\Users\dbper\OneDrive\Documents\Uni\Assignment 3 FIT2096 By Dhanushka Perera (2693094)\FIT2096 Week 11 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2017.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2017.lib(WICTextureLoader.obj)' or at 'C:\Users\dbper\OneDrive\Documents\Uni\Assignment 3 FIT2096 By Dhanushka Perera (2693094)\FIT2096 Week 11 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+  FIT2096 - Week 11.vcxproj -> C:\Users\dbper\OneDrive\Documents\Uni\Assignment 3 FIT2096 By Dhanushka Perera (2693094)\FIT2096 Week 11 Base\Debug\FIT2096 - Week 11 Base.exe
